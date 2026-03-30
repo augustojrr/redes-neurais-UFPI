@@ -1,2 +1,2 @@
-# Redeus Neuras - UFPI
+# Redes Neurais - UFPI
 ## Atividades e Trabalhos da matéria
